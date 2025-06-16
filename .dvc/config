@@ -1,0 +1,4 @@
+[core]
+    remote = mycloud
+['remote "mycloud"']
+    url = ../S3
